@@ -26,7 +26,7 @@ Pemilih memiliki akses
 - Melakukan e-voting
 
 ## How to Run
-1. Install file yang dibutuhkan:
+1. Install file yang dibutuhkan
 2. Jalankan program dengan menjalankan perintah berikut di terminal:
 ``` bash
 g++ -o (nama file kompilasi) onlinevoting.cpp (source code)
@@ -38,5 +38,7 @@ g++ -o (nama file kompilasi) onlinevoting.cpp (source code)
 |Nama|NIM|
 |--|--|
 |Wisnu Al Hussaeni|G6401221008|
+|Bima Rizqy Ramadhan|G6401221082|
+|Vergiawan Zhaki Rasendria|G6401221101|
 
 
